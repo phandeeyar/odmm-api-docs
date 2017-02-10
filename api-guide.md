@@ -24,12 +24,12 @@ The result of this action is a dictionary with the following keys:
 
 **Parameters:**
 
-**fields** (list of dictionaries) – fields/columns and their extra metadata
-**offset** (int) – query offset value
-**limit** (int) – query limit value
-**filters** (list of dictionaries) – query filters
-**total** (int) – number of total matching records
-**records** (list of dictionaries) – list of matching results
+- **fields** (list of dictionaries) – fields/columns and their extra metadata
+- **offset** (int) – query offset value
+- **limit** (int) – query limit value
+- **filters** (list of dictionaries) – query filters
+- **total** (int) – number of total matching records
+- **records** (list of dictionaries) – list of matching results
 
 Ref : http://docs.ckan.org/en/latest/maintaining/datastore.html#ckanext.datastore.logic.action.datastore_search
 
