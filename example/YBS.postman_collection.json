@@ -1,0 +1,66 @@
+{
+	"variables": [],
+	"info": {
+		"name": "YBS",
+		"_postman_id": "6fd8518d-dfa3-b1d2-bf43-6e0deb23b8d7",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "All Bus Stops",
+			"request": {
+				"url": "{{root_url}}?resource_id=ce59387c-2020-40c3-aa3d-e9aac55fca3a",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Get by Services",
+			"request": {
+				"url": "{{root_url}}?resource_id=ce59387c-2020-40c3-aa3d-e9aac55fca3a&filters={\"service_name\":1}",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Get Services by Bus Stop",
+			"request": {
+				"url": "{{root_url}}?resource_id=ce59387c-2020-40c3-aa3d-e9aac55fca3a&filters={\"bus_stop_id\":2011}",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Search by Name",
+			"request": {
+				"url": "{{root_url}}?resource_id=ce59387c-2020-40c3-aa3d-e9aac55fca3a&q={\"name_mm\":\"အောင်ချမ်းသာ\"}",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Full Text Search",
+			"request": {
+				"url": "{{root_url}}?resource_id=ce59387c-2020-40c3-aa3d-e9aac55fca3a&q=အောင်ချမ်းသာ",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
