@@ -1,4 +1,10 @@
 #Avaliable Datasets for API
+- [Production of Electric Power] (https://data.opendevelopmentmekong.net/dataset/production-of-electric-power?type=dataset)
+- [Sales of Electric Power by Type] (https://data.opendevelopmentmekong.net/dataset/sales-of-electric-power-by-type?type=dataset)
+- [Electric Power Installation, Generation and Consumption] (https://data.opendevelopmentmekong.net/dataset/electric-power-installation-generation-and-consumption?type=dataset)
+- [Electric Power Installation by Type and Location] (https://data.opendevelopmentmekong.net/dataset/electric-power-installation-by-type-and-location?type=dataset)
+- [Electric Power Generation by Type and Location] (https://data.opendevelopmentmekong.net/dataset/electric-power-generation-by-type-and-location?type=dataset)
+
 - [Yangon Bus Service Public Data](https://data.opendevelopmentmekong.net/dataset/yangon-bus-service-public-data?type=dataset)
 - [Myanmar Daily Exchange Rates (2014-2016)](https://data.opendevelopmentmekong.net/dataset/myanmar-daily-exchange-rates-2014-2016?type=dataset)
 - [Myanmar Mining Areas](https://data.opendevelopmentmekong.net/dataset/mining-areas?type=dataset)
